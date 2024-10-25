@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GastosNix.iml" filepath="$PROJECT_DIR$/GastosNix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GastoSolutions.iml" filepath="$PROJECT_DIR$/GastoSolutions.iml" />
     </modules>
   </component>
 </project>
